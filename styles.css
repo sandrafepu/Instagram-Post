@@ -1,0 +1,63 @@
+body {
+    background: black;
+}
+.container {
+    font-family: 'Roboto', sans-serif;
+    background: white;
+    width: 500px;
+    height: 600px;
+    margin: auto;
+   
+}
+.post-header {
+    display: flex;
+    padding-block: 7px;
+}
+.icon-html5 {
+    padding: 2%;
+}
+.user {
+    margin-top: 7%;
+}
+.name {
+    margin: 0;
+    padding: 0;
+}
+.icon-lines {
+    margin-left: 68%;
+    padding: 3%;
+}
+.foto {
+    width: -webkit-fill-available
+
+
+
+
+}
+.icons {
+    display: flex;
+    padding: 1%;
+}
+.corazon {
+    padding: 1%;
+}
+.bocadillo {
+    padding: 1%;
+}
+.avion {
+    padding: 1%;
+}
+.marcador {
+    padding: 1%;
+    margin-left: 330px;
+}
+.text-1 {
+padding: 2%;
+}
+.text-2 {
+    padding: 0;
+}
+.post, p {
+    margin: 0;
+    padding: 2%;
+}
